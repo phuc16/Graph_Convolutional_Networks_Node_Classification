@@ -1,0 +1,11 @@
+Epochs,Time per step of Graph Convolutional Networks (ms),Time per step of Fully-Connected Neural Networks  (ms)
+100,194,188
+200,173,174
+300,162,162
+400,178,176
+500,172,173
+600,175,171
+700,166,162
+800,172,166
+900,167,174
+1000,189,180
